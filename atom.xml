@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Astota</title>
+  <icon>http://yoursite.com/icon.png</icon>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-12-29T05:58:31.485Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>zhang ben</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>First</title>
+    <link href="http://yoursite.com/2019/12/29/First/"/>
+    <id>http://yoursite.com/2019/12/29/First/</id>
+    <published>2019-12-29T05:58:31.000Z</published>
+    <updated>2019-12-29T05:58:31.485Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/12/29/hello-world/"/>
+    <id>http://yoursite.com/2019/12/29/hello-world/</id>
+    <published>2019-12-29T05:34:50.078Z</published>
+    <updated>2019-12-29T05:34:50.078Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
