@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-12-29T05:58:31.485Z</updated>
+  <updated>2019-12-29T14:34:59.167Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo一些操作命令</title>
+    <link href="http://yoursite.com/2019/12/29/Hexo%E4%B8%80%E4%BA%9B%E6%93%8D%E4%BD%9C%E5%91%BD%E4%BB%A4/"/>
+    <id>http://yoursite.com/2019/12/29/Hexo%E4%B8%80%E4%BA%9B%E6%93%8D%E4%BD%9C%E5%91%BD%E4%BB%A4/</id>
+    <published>2019-12-29T14:28:17.000Z</published>
+    <updated>2019-12-29T14:34:59.167Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;hexo new “postName” #新建文章&lt;br&gt;hexo new page “pageName” #新建页面&lt;br&gt;hexo generate #生成静态页面至public目录&lt;br&gt;hexo server #开启预览访问端口（默认端口4000，’ctrl +
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>First</title>
