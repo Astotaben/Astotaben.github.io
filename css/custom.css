@@ -172,7 +172,27 @@ p.top {
   #recent-posts > .recent-post-item{
       background:rgba(0, 0, 0, 0.5)!important;
     }
-    
+
+  /* 分页页面 */
+[data-theme="dark"]   
+  div#page{
+      background: rgba(0, 0, 0, 0.5);
+  }
+  /* 归档页面 */
+[data-theme="dark"]   
+  div#archive{
+  background: rgba(0, 0, 0, 0.5);
+  }
+  /* 标签页面 */
+[data-theme="dark"]   
+  div#tag{
+  background: rgba(0, 0, 0, 0.5);
+  }
+  /* 分类页面 */
+[data-theme="dark"] 
+  div#category{
+  background: rgba(0, 0, 0, 0.5);
+  }    
 /* 阅读模式 */
 .read-mode #aside-content .card-widget{
       background: rgba(158, 204, 171, 0.5)!important;
@@ -194,8 +214,19 @@ p.top {
         }
 
 /* 字体 */
-@import url('https://fonts.googleapis.com/css2?family=Zhi+Mang+Xing&display=swap');
-
+@font-face{
+  font-family:'Corroduro' ;  /* 字体名自定义即可 */
+  src:url('/fonts/Corroduro.ttf'); /* 字体文件路径 */
+  font-display : swap;
+}
 h1#site-title {
-  font-family: 'Zhi Mang Xing', cursive;
+  font-family: 'Corroduro', sans-serif;
+}
+
+span#subtitle {
+  font-family: 'Corroduro', sans-serif;
+}
+
+h1.post-title {
+  font-family: 'Corroduro', sans-serif;
 }

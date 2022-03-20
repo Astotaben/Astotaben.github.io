@@ -1,6 +1,8 @@
 //随机背景图片数组,图片可以换成图床链接，注意最后一条后面不要有逗号
 var backimg =[
   "url(https://s1.ax1x.com/2022/03/19/qAtk5D.jpg)",
+  "url(https://s1.ax1x.com/2022/03/20/qZmoee.jpg)",
+  "url(https://s1.ax1x.com/2022/03/20/qZmqJI.jpg)",
   "url(https://s1.ax1x.com/2022/03/17/qPMzVI.jpg)"
 ];
 //获取背景图片总数，生成随机数
@@ -10,6 +12,8 @@ document.getElementById("web_bg").style.backgroundImage = backimg[bgindex];
 //随机banner数组,图片可以换成图床链接，注意最后一条后面不要有逗号
 var bannerimg =[
   "url(https://s1.ax1x.com/2022/03/19/qAtk5D.jpg)",
+  "url(https://s1.ax1x.com/2022/03/20/qZmoee.jpg)",
+  "url(https://s1.ax1x.com/2022/03/20/qZmqJI.jpg)",
   "url(https://s1.ax1x.com/2022/03/17/qPMzVI.jpg)"
 ];
 //获取banner图片总数，生成随机数
